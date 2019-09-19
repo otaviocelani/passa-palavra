@@ -1,0 +1,11 @@
+{
+  "name": "passapalavra",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/frattezi/passa-palavra",
+  "author": "Guilherme Willer, Murilo Costa, Otávio Celani, Victor Seara",
+  "license": "MIT",
+  "dependencies": {
+    "node": "^12.10.0"
+  }
+}
